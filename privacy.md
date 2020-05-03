@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacid
+title: Privacidad
 permalink: /privacidad/
 ---
 
